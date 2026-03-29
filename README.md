@@ -86,6 +86,8 @@ The model is built using a Sequential deep learning architecture:
 
 You can also watch the video below for a quick demo:
 
+![Demo](Demo.gif)
+
 ---
 
 # 📦 Installation & Setup
@@ -137,22 +139,11 @@ The application will open in your browser.
 
 ## 👨‍💻 Author
 
-**Rohit Virdi**  
-BCA + MCA Graduate  
-Aspiring **Data Analyst / Data Scientist**  
-Skilled in **Python, Numpy, Pandas, SQL, Data Analysis, Machine Learning, Deep Learning, NLP and Visualization**  
-Interested in building data-driven solutions and intelligent systems
-
----
-## ⭐ Support
-
-If you like this project:
-
-- ⭐ Star the repo
-- 🍴 Fork it
-- 🧠 Try improving the model
-
----
+- **Rohit Virdi**  
+- BCA + MCA Graduate  
+- Aspiring **Data Analyst / Data Scientist**  
+- Skilled in **Python, Numpy, Pandas, SQL, Data Analysis, Machine Learning, Deep Learning, NLP and Visualization**  
+- Interested in building data-driven solutions and intelligent systems
 
 🔗 GitHub: https://github.com/rohitvirdi5rv-crypto
 
